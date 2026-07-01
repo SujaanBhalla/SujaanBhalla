@@ -67,7 +67,6 @@ Every project here represents something new I learned.
 - 🐍 Python
 - 📊 Data Science
 - 🤖 Machine Learning
-- 🎯 GATE 2027
 
 
 
