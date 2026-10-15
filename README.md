@@ -3,6 +3,7 @@
 ### Building my journey from Python Beginner to AI Engineer 🚀
 🎓 B.Tech in Artificial Intelligence & Data Science
 
+
 🌍 Open Source Contributor (GSSoC 2026)
 
 📍 Jaipur, India
