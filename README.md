@@ -44,8 +44,6 @@ Every project here represents something new I learned.
 
 • AI Projects
 
-• GATE 2027
-
 ## 📊 GitHub Stats
 
 ![Sujaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujaanBhalla&show_icons=true&theme=tokyonight&hide_border=true)
